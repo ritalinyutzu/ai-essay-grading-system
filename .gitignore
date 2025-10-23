@@ -1,0 +1,85 @@
+# Python
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# 虛擬環境
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# 測試
+.pytest_cache/
+.coverage
+htmlcov/
+*.cover
+
+# 模型檔案（通常很大）
+models/*.pth
+models/*.h5
+models/*.pb
+*.model
+*.pkl
+*.joblib
+
+# 資料檔案（避免上傳大型資料）
+data/essays/*.jpg
+data/essays/*.png
+data/essays/*.pdf
+data/*.csv
+!data/.gitkeep
+
+# 暫存檔案
+temp/
+tmp/
+*.tmp
+*.cache
+
+# EasyOCR 模型快取
+.EasyOCR/
+
+# 日誌
+*.log
+logs/
+
+# 結果檔案（可選擇性上傳）
+results/*.png
+results/*.jpg
+results/*.pdf
+!results/.gitkeep
+
+# 系統檔案
+Thumbs.db
+.DS_Store
+
+# 環境變數
+.env
+.env.local

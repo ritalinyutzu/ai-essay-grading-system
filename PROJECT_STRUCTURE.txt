@@ -1,0 +1,10 @@
+./ARCHITECTURE.md
+./DEPLOYMENT_GUIDE.md
+./PROJECT_STRUCTURE.txt
+./README.md
+./essay_grading_system.py
+./examples/basic_usage.py
+./examples/batch_grading.py
+./examples/evaluation_demo.py
+./requirements.txt
+./test_installation.py

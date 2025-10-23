@@ -1,0 +1,29 @@
+# 核心依賴
+easyocr>=1.7.0
+opencv-python>=4.8.0
+Pillow>=10.0.0
+numpy>=1.24.0
+
+# NLP 工具
+nltk>=3.8.0
+# spaCy>=3.6.0  # 可選，需要額外下載模型
+
+# 機器學習
+scikit-learn>=1.3.0
+
+# 資料處理
+pandas>=2.0.0
+
+# 視覺化
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Web API（可選）
+# flask>=2.3.0
+# flask-cors>=4.0.0
+
+# 進度條
+tqdm>=4.65.0
+
+# 其他工具
+pyyaml>=6.0
