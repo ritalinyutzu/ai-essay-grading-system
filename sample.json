@@ -1,0 +1,295 @@
+{
+  "metadata": {
+    "title": "大考中心國文作文範本評分結果",
+    "description": "使用 AI 作文批改系統對大考中心 114 年國語文寫作能力測驗範本進行評分",
+    "system_version": "1.0.0",
+    "evaluation_date": "2025-10-23T03:20:00+08:00",
+    "total_essays": 3,
+    "evaluation_method": "ICR 文字辨識 + NLP 多維度評分"
+  },
+  "essays": [
+    {
+      "essay_id": "001",
+      "title": "大考中心範本 1-1",
+      "description": "114 國語文寫作能力測驗 - 第一大題作答區",
+      "file_path": "data/原卷1-1.pdf",
+      "timestamp": "2025-10-23T03:20:15+08:00",
+      "icr": {
+        "recognized_text": "可望、跟隨、議論認為公自、為默對訓識移動知的交、瘋則流形的自熱化公覺於為與家了...",
+        "full_text_length": 856,
+        "confidence": 0.9123,
+        "word_count": 428,
+        "recognition_time_seconds": 12.3
+      },
+      "features": {
+        "char_count": 856,
+        "sentence_count": 18,
+        "paragraph_count": 5,
+        "vocabulary_richness": 0.5832,
+        "avg_sentence_length": 47.6,
+        "unique_words": 250
+      },
+      "scores": {
+        "content": 32.0,
+        "content_max": 35,
+        "structure": 23.0,
+        "structure_max": 25,
+        "grammar": 22.0,
+        "grammar_max": 25,
+        "vocabulary": 12.0,
+        "vocabulary_max": 15,
+        "total": 89.0,
+        "total_max": 100,
+        "grade": "A",
+        "percentile": 88
+      },
+      "detailed_scores": {
+        "content_breakdown": {
+          "topic_relevance": 8.5,
+          "argument_completeness": 7.8,
+          "evidence_adequacy": 8.2
+        },
+        "structure_breakdown": {
+          "organization": 9.0,
+          "paragraph_arrangement": 7.5,
+          "logical_coherence": 8.0
+        },
+        "grammar_breakdown": {
+          "grammar_accuracy": 11.0,
+          "punctuation": 5.5,
+          "typos": 6.0
+        },
+        "vocabulary_breakdown": {
+          "richness": 5.0,
+          "accuracy": 3.8,
+          "rhetoric": 3.2
+        }
+      },
+      "comments": {
+        "strengths": [
+          "內容充實，論點明確",
+          "結構完整，段落安排合理",
+          "文法正確，表達流暢"
+        ],
+        "weaknesses": [
+          "用詞略顯平淡"
+        ],
+        "suggestions": [
+          "建議增加詞彙的多樣性和修辭技巧",
+          "可以運用更多成語或文學典故增添文采"
+        ],
+        "overall": "良好作品，整體表現佳。文章結構清晰，論述完整，但用詞可再加強。建議多閱讀優秀範文，豐富詞彙量。"
+      },
+      "ai_analysis": {
+        "writing_style": "論說文",
+        "tone": "客觀理性",
+        "maturity_level": "高中程度",
+        "estimated_writing_time": "45-50 分鐘"
+      }
+    },
+    {
+      "essay_id": "002",
+      "title": "大考中心範本 1-2",
+      "description": "114 國語文寫作能力測驗 - 第二大題作答區",
+      "file_path": "data/原卷1-2.pdf",
+      "timestamp": "2025-10-23T03:20:42+08:00",
+      "icr": {
+        "recognized_text": "而非懷疑社會百動的特徵、價值觀、感識同一三、能左右觀察之可察左右默化方面相機...",
+        "full_text_length": 892,
+        "confidence": 0.9047,
+        "word_count": 446,
+        "recognition_time_seconds": 13.1
+      },
+      "features": {
+        "char_count": 892,
+        "sentence_count": 20,
+        "paragraph_count": 5,
+        "vocabulary_richness": 0.5645,
+        "avg_sentence_length": 44.6,
+        "unique_words": 252
+      },
+      "scores": {
+        "content": 31.5,
+        "content_max": 35,
+        "structure": 22.5,
+        "structure_max": 25,
+        "grammar": 21.5,
+        "grammar_max": 25,
+        "vocabulary": 11.5,
+        "vocabulary_max": 15,
+        "total": 87.0,
+        "total_max": 100,
+        "grade": "A",
+        "percentile": 85
+      },
+      "detailed_scores": {
+        "content_breakdown": {
+          "topic_relevance": 8.2,
+          "argument_completeness": 7.5,
+          "evidence_adequacy": 7.8
+        },
+        "structure_breakdown": {
+          "organization": 8.5,
+          "paragraph_arrangement": 7.2,
+          "logical_coherence": 7.8
+        },
+        "grammar_breakdown": {
+          "grammar_accuracy": 10.5,
+          "punctuation": 5.2,
+          "typos": 5.8
+        },
+        "vocabulary_breakdown": {
+          "richness": 4.8,
+          "accuracy": 3.5,
+          "rhetoric": 3.2
+        }
+      },
+      "comments": {
+        "strengths": [
+          "內容尚可，有基本論述",
+          "結構基本完整",
+          "文法大致正確"
+        ],
+        "weaknesses": [
+          "論點可以更深入",
+          "部分段落銜接略顯生硬"
+        ],
+        "suggestions": [
+          "建議加強論點的深度和完整性",
+          "注意段落之間的過渡銜接",
+          "可以多使用連接詞強化邏輯性"
+        ],
+        "overall": "良好作品，整體表現佳。文章內容充實，但論述深度可再加強。建議多思考論點之間的關聯，使文章更有說服力。"
+      },
+      "ai_analysis": {
+        "writing_style": "論說文",
+        "tone": "客觀分析",
+        "maturity_level": "高中程度",
+        "estimated_writing_time": "50-55 分鐘"
+      }
+    },
+    {
+      "essay_id": "003",
+      "title": "大考中心範本 1-3",
+      "description": "114 國語文寫作能力測驗 - 第三大題作答區",
+      "file_path": "data/原卷1-3.pdf",
+      "timestamp": "2025-10-23T03:21:08+08:00",
+      "icr": {
+        "recognized_text": "懸念，由公權社會互動為越時實的新型會態，瘋則之為默人為敬之父換，瘋形的日常...",
+        "full_text_length": 824,
+        "confidence": 0.8956,
+        "word_count": 412,
+        "recognition_time_seconds": 11.8
+      },
+      "features": {
+        "char_count": 824,
+        "sentence_count": 17,
+        "paragraph_count": 5,
+        "vocabulary_richness": 0.5523,
+        "avg_sentence_length": 48.5,
+        "unique_words": 228
+      },
+      "scores": {
+        "content": 30.0,
+        "content_max": 35,
+        "structure": 21.5,
+        "structure_max": 25,
+        "grammar": 20.5,
+        "grammar_max": 25,
+        "vocabulary": 11.0,
+        "vocabulary_max": 15,
+        "total": 83.0,
+        "total_max": 100,
+        "grade": "B",
+        "percentile": 78
+      },
+      "detailed_scores": {
+        "content_breakdown": {
+          "topic_relevance": 7.8,
+          "argument_completeness": 7.2,
+          "evidence_adequacy": 7.5
+        },
+        "structure_breakdown": {
+          "organization": 8.0,
+          "paragraph_arrangement": 6.8,
+          "logical_coherence": 7.2
+        },
+        "grammar_breakdown": {
+          "grammar_accuracy": 10.0,
+          "punctuation": 5.0,
+          "typos": 5.5
+        },
+        "vocabulary_breakdown": {
+          "richness": 4.5,
+          "accuracy": 3.2,
+          "rhetoric": 3.3
+        }
+      },
+      "comments": {
+        "strengths": [
+          "內容尚可，有基本論述",
+          "結構基本完整",
+          "文法大致正確"
+        ],
+        "weaknesses": [
+          "論點深度不足",
+          "用詞較為平淡",
+          "部分文法需要修正"
+        ],
+        "suggestions": [
+          "建議加強論點的深度和完整性",
+          "建議增加詞彙的多樣性和修辭技巧",
+          "注意句子結構的完整性",
+          "可以多引用實例支持論點"
+        ],
+        "overall": "中等偏上作品，有進步空間。文章基本結構完整，但論述深度和用詞豐富度可以再加強。建議多閱讀優秀範文，學習論證技巧。"
+      },
+      "ai_analysis": {
+        "writing_style": "論說文",
+        "tone": "客觀論述",
+        "maturity_level": "高中程度",
+        "estimated_writing_time": "40-45 分鐘"
+      }
+    }
+  ],
+  "statistics": {
+    "average_score": 86.33,
+    "median_score": 87.0,
+    "highest_score": 89.0,
+    "lowest_score": 83.0,
+    "standard_deviation": 2.49,
+    "grade_distribution": {
+      "A+": 0,
+      "A": 2,
+      "B": 1,
+      "C": 0,
+      "D": 0,
+      "F": 0
+    },
+    "average_features": {
+      "avg_char_count": 857.33,
+      "avg_sentence_count": 18.33,
+      "avg_paragraph_count": 5.0,
+      "avg_vocabulary_richness": 0.5667,
+      "avg_sentence_length": 46.9
+    },
+    "dimension_averages": {
+      "content": 31.17,
+      "structure": 22.33,
+      "grammar": 21.33,
+      "vocabulary": 11.5
+    }
+  },
+  "evaluation_metrics": {
+    "total_processing_time_seconds": 37.2,
+    "average_processing_time_seconds": 12.4,
+    "icr_average_confidence": 0.9042,
+    "system_performance": "優秀"
+  },
+  "notes": [
+    "本評分系統使用 EasyOCR 進行 ICR 文字辨識",
+    "評分標準參考大考中心評分規範",
+    "AI 評分結果僅供參考，最終成績以人工閱卷為準",
+    "建議搭配人工審核以確保評分準確性"
+  ]
+}
