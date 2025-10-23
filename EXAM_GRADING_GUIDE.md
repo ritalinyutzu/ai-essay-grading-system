@@ -470,6 +470,7 @@ system.weights = {
 2. 確認所有套件都已安裝
 3. 查看 GitHub Issues
 4. Email: msmile09@hotmail.com
+5. Python Version : Python 3.9
 
 ---
 
